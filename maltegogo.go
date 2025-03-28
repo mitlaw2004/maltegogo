@@ -5,7 +5,7 @@
  *
  */
 
-package main
+package maltegogo
 
 import (
 	"encoding/xml"
